@@ -4,4 +4,6 @@ notebooks/cifar_net.pth
 data/
 dataset/
 split-dataset/
+split-dataset-1/
 pycoral_whl_4_python3.10
+dataset-1/
