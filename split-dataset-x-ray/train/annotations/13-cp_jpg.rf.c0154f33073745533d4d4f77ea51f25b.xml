@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>13-cp_jpg.rf.c0154f33073745533d4d4f77ea51f25b.jpg</filename>
+	<path>13-cp_jpg.rf.c0154f33073745533d4d4f77ea51f25b.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ym</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>435</xmin>
+			<xmax>445</xmax>
+			<ymin>224</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>
