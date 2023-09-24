@@ -6,4 +6,10 @@ dataset/
 split-dataset/
 split-dataset-1/
 pycoral_whl_4_python3.10
-dataset-1/
+dataset/
+temp/
+x-ray-detection-3/
+models
+Retrain_EfficientDet_Lite_detector_for_the_Edge_TPU_(TF2).ipynb
+notebooks/
+dataset-x-ray/
