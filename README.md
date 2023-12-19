@@ -1,7 +1,7 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# TENSORFLOW LITE MODEL MAKER DOES NOT WORK. THIS REPO HOW TO GET AROUND..
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Thensorflow Lite Model Maker works good Python 3.9 But Colab standards ^3.10.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+Here how you can go around it.
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+
